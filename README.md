@@ -1,7 +1,9 @@
 # Компьютерные сети
 **Автор:** Неграш Андрей, группа P33301
+
 ## Лабораторная 1: "Методы кодирования в компьютерных сетях"
 [**Отчёт**](https://github.com/ANegrash/Computer_networks/blob/main/lab1.docx)
+
 ### Этап 1
 Реализованы следующие методы физического и логического кодирования:
 - Манчестерский код (M-II)
@@ -23,7 +25,11 @@
 Все 3 сети лежат в папке [lab2_networks](https://github.com/ANegrash/Computer_networks/tree/main/lab2_networks)
 
 ## Лабораторная 3
-//TODO
+[**Отчёт**](https://github.com/ANegrash/Computer_networks/blob/main/lab3.docx)
+
+**Вариант:** идентичен варианту из лабораторной 2, с небольшими изменениями пула адресов (описано в отчёте)
+
+Все 5 сетей лежат в папке [lab3_networks](https://github.com/ANegrash/Computer_networks/tree/main/lab3_networks)
 
 ## Лабораторная 4
 //TODO
