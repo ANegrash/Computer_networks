@@ -24,7 +24,7 @@
 
 Все 3 сети лежат в папке [lab2_networks](https://github.com/ANegrash/Computer_networks/tree/main/lab2_networks)
 
-## Лабораторная 3
+## Лабораторная 3: "Компьютерные сети с маршрутизаторами"
 [**Отчёт**](https://github.com/ANegrash/Computer_networks/blob/main/lab3.docx)
 
 **Вариант:** идентичен варианту из лабораторной 2, с небольшими изменениями пула адресов (описано в отчёте)
