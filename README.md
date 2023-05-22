@@ -31,5 +31,7 @@
 
 Все 5 сетей лежат в папке [lab3_networks](https://github.com/ANegrash/Computer_networks/tree/main/lab3_networks)
 
-## Лабораторная 4
-//TODO
+## Лабораторная 4: "Анализ трафика компьютерных сетей с помощью утилиты Wireshark"
+[**Отчёт**](https://github.com/ANegrash/Computer_networks/blob/main/lab4.docx)
+
+**Вариант:** хост для отправки данных - [nav-com.ru](https://nav-com.ru)
